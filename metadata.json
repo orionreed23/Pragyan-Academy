@@ -1,0 +1,6 @@
+{
+  "name": "Pragyan Academy of Sciences",
+  "description": "Prestige, academic excellence, and cutting-edge research at Pragyan Academy of Sciences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
